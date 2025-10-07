@@ -47,7 +47,7 @@ A lightweight ERPNext app that **enhances the Point of Sale (POS) Item Selector*
 bench --site mysite.local backup
 
 # 2) Get the app
-bench get-app https://github.com/ahmadbilal712/BOT-Pos.git
+bench get-app https://github.com/BOTSolutions8686/bot_pos.git
 
 # 3) Install on your site
 bench --site mysite.local install-app bot_pos
